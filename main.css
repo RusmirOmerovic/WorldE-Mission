@@ -68,7 +68,8 @@
         font-weight: bold;
         padding: 0.8rem 0.8rem;
     }
-    .offcanvas .nav-item:hover .nav-link {
+    .offcanvas .nav-item:hover .nav-link,
+    offcanvas .nav-item.active .nav-link {
         color: rgb(30, 1, 30);
         background-color: rgba(0, 255, 255, 0.81);
         font-weight:bold;
