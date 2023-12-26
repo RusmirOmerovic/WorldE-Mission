@@ -79,6 +79,13 @@
         border-radius: 5px;
         padding-left: 2rem;
     } 
+    a.navbar-brand:hover {
+
+      filter: brightness(120%);
+      color:rgb(66, 242, 242);
+      font-weight: 600;
+    
+    }
 
     /* Grundeinstellungen Body */
     body {
