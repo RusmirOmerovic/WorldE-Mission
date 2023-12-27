@@ -76,7 +76,7 @@
         font-weight:bold;
         margin-right: -30px;
         margin-left: -25px;
-        transition: all .5s;
+        transition: all .55s;
         border-radius: 5px;
         padding-left: 2rem;
     } 
@@ -95,6 +95,32 @@
     .offcanvas-body .navbar-nav .nav-item .bi {
       margin-right: 8px;
       margin-bottom: 5px;
+    }
+    .btn-secondary {
+      border: .5px solid aqua !important;
+      color:aqua !important;
+      background-color: transparent !important;
+      opacity: .7;
+    }
+    .btn-secondary:hover {
+      color: powderblue !important;
+      border: .5px solid powderblue !important;
+    }
+    .dropdown-menu {
+      background-color: rgba(59, 10, 59, 0.545) !important;
+      opacity: 0.8;
+      border: 0.1px solid rgba(0, 255, 255, 0.326);
+    }
+    .dropdown-item {
+      color: whitesmoke;
+      font-family: "Roboto Condensed";
+      font-weight: bold;
+    }
+    .dropdown-item:hover {
+      background-color: rgba(0, 255, 255, 0.81);
+      transition: all .55s;
+      color: rgba(60, 12, 60, 0.957);
+      font-weight: bold;
     }
 
     /* Grundeinstellungen Body */
