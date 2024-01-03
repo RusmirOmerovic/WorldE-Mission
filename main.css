@@ -1,0 +1,357 @@
+/* Menü-Button anpassen */
+.navbar-dark .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='aqua' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2.5' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+    }
+    .navbar-dark .navbar-toggler {
+      border: 1px solid aqua;
+      
+    }
+    .navbar-dark .navbar-toggler:focus {
+      box-shadow: none
+    }
+    .tog-button:hover .navbar-toggler {
+      border: 1.5px solid powderblue;
+    }
+    .tog-button:hover .navbar-toggler-icon {
+      background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='powderblue' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2.5' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+    }
+
+    /* Close-Button X oben rechts anpassen, Farbe: fill...%23 + Farbcode */
+    .offcanvas-header .btn-close {
+      background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%2300ffff'%3e%3cpath d='M.293.293a1 1 0 0 1 1.414 0L8 6.586 14.293.293a1 1 0 1 1 1.414 1.414L9.414 8l6.293 6.293a1 1 0 0 1-1.414 1.414L8 9.414l-6.293 6.293a1 1 0 0 1-1.414-1.414L6.586 8 .293 1.707a1 1 0 0 1 0-1.414z'/%3e%3c/svg%3e");
+      border: solid 1px #00ffff;
+    }
+
+    /* Farbe Platzhalter in Suchleiste */
+    .form-control::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+            color: rgb(30, 1, 30);
+            opacity: 1; /* Firefox */
+    }
+
+    .form-control:-ms-input-placeholder { /* Internet Explorer 10-11 */
+            color: rgb(30, 1, 30);
+    }
+
+    .form-control::-ms-input-placeholder { /* Microsoft Edge */
+            color: rgb(30, 1, 30);
+    }
+
+    /* Navbar + Menü anpassen */
+    .navbar-dark {
+        background-color: rgb(30, 1, 30);
+    }
+    .navbar-dark .navbar-brand {
+        font-family: "Audiowide";
+        color:aqua;
+        font-size: 1.5em;
+        margin-top: auto;
+    }
+    .offcanvas {
+        background-color: rgb(30, 1, 30);
+        color: aqua;
+        font-size: 1em;
+    }
+    .offcanvas-body .navbar-nav .nav-item {
+        padding: 1px;
+        margin-left: 10px;
+    }
+    .offcanvas .offcanvas-title {
+        font-size: 2em;
+        font-family:"Roboto Condensed";
+    }
+    .offcanvas .btn-close {
+        margin-top: -20px;
+        margin-right: 1px;
+    }
+    .offcanvas .nav-item .nav-link {
+        color: whitesmoke;
+        font-family: "Roboto Condensed";
+        font-weight: bold;
+        padding: 0.8rem 0.8rem;
+    }
+    .offcanvas .nav-item:hover .nav-link,
+    offcanvas .nav-item.active .nav-link {
+        color: rgb(30, 1, 30);
+        background-color: rgba(0, 255, 255, 0.81);
+        font-weight:bold;
+        margin-right: -30px;
+        margin-left: -25px;
+        transition: all .55s;
+        border-radius: 5px;
+        padding-left: 2rem;
+    } 
+    a.navbar-brand:hover {
+
+      filter: brightness(120%);
+      color:rgb(66, 242, 242);
+      font-weight: 600;
+    
+    }
+
+    .offcanvas-header .bi {
+      margin-right: 12px;
+      margin-bottom: 7px;
+    }
+    .offcanvas-body .navbar-nav .nav-item .bi {
+      margin-right: 8px;
+      margin-bottom: 5px;
+    }
+    .btn-secondary {
+      border: .5px solid aqua !important;
+      color:aqua !important;
+      background-color: transparent !important;
+      opacity: .7;
+    }
+    .btn-secondary:hover {
+      color: powderblue !important;
+      border: .5px solid powderblue !important;
+    }
+    .dropdown-menu {
+      background-color: rgb(55, 9, 55) !important;
+      opacity: 0.9;
+      border: 0.1px solid rgba(0, 255, 255, 0.326);
+    }
+    .dropdown-item {
+      color: whitesmoke;
+      font-family: "Roboto Condensed";
+      font-weight: bold;
+    }
+    .dropdown-item:hover {
+      background-color: rgba(0, 255, 255, 0.81);
+      transition: all .55s;
+      color: rgba(60, 12, 60, 0.957);
+      font-weight: bold;
+    }
+
+    /* Grundeinstellungen Body */
+    body {
+  background-color: rgb(17, 0, 17);
+  padding: 20px;
+  
+}
+
+/* Feinabstimmung Body */
+.card-img-overlay {
+  font-family: "Rubik Doodle Shadow";
+  
+}
+.card-img {
+  width: 100%;
+  height: max-content;
+}
+
+.card-img-overlay .card-title {
+  font-size: 5.3rem;
+  margin-bottom: 5px;
+  margin-left: 25px;
+  margin-top: 20px;
+  padding: 15px;
+  line-height: 123%;
+  color: rgb(23, 23, 23);
+  
+}
+.title-effect {
+  font-family: "Rubik Doodle Shadow";
+  color: rgb(236, 233, 233);
+  background-color: rgba(245, 46, 249, 0.741);
+ border: 1px solid rgba(245, 46, 249, 0.814);
+  
+
+}
+.title-effect-2 {
+  font-family: "Rubik Doodle Shadow";
+  color: rgba(245, 46, 249, 0.956);
+  background-color: rgba(245, 245, 245, 0.896);
+  padding: 0.2rem;
+}
+.card-text {
+  font-size: 2.2rem;
+  background-color: rgba(234, 228, 235, 0.508);
+  color: rgb(13, 13, 13);
+  font-family: "Roboto";
+  font-weight: 900;
+  
+  margin-top: 12rem;
+  padding-left: 7px;
+  padding-bottom: 8px;
+  padding-top: 5px;
+  text-align: left;
+  display: inline;
+  border-top: 10px solid rgba(43, 2, 22, 0.786);
+  line-height: 30px;
+  }
+
+  @media only screen and (max-width: 1400px) {
+  
+    .card-img-overlay {
+      font-family: "Rubik Doodle Shadow";
+      color: rgb(54, 54, 54);
+      
+    }
+    .card-img-overlay .card-title {
+      font-size: 4.5rem;
+  margin-bottom: 5px;
+  margin-left: 25px;
+  margin-top: 20px;
+  padding: 15px;
+  line-height: 123%;
+  color: rgb(23, 23, 23);
+      
+    }
+    .title-effect {
+      font-family: "Rubik Doodle Shadow";
+      color: rgb(236, 233, 233);
+      background-color: rgba(245, 46, 249, 0.741);
+     border: 1px solid rgba(245, 46, 249, 0.814);
+     
+      
+    
+    }
+    .title-effect-2 {
+      font-family: "Rubik Doodle Shadow";
+      color: rgba(245, 46, 249, 0.956);
+      background-color: rgba(245, 245, 245, 0.896);
+      padding: 0.2rem;
+      
+    }
+  
+  
+  
+  
+    .card-text {
+      font-size: 1.8rem;
+      background-color: rgba(234, 228, 235, 0.508);
+      color: rgb(13, 13, 13);
+      font-family: "Roboto";
+      font-weight: 900;
+      
+      margin-top: 10rem;
+      padding-left: 7px;
+      padding-bottom: 8px;
+      padding-top: 5px;
+      text-align: left;
+      display: inline;
+      border-top: 10px solid rgba(43, 2, 22, 0.786);
+      line-height: 20px;
+  }
+
+  }
+
+  @media only screen and (max-width: 1024px) {
+  
+    .card-img-overlay {
+      font-family: "Rubik Doodle Shadow";
+      color: rgb(54, 54, 54);
+      
+    }
+    .card-img-overlay .card-title {
+      font-size: 2.9rem;
+  margin-bottom: 5px;
+  margin-left: 25px;
+  margin-top: 20px;
+  padding: 15px;
+  line-height: 123%;
+  color: rgb(23, 23, 23);
+      
+    }
+    .title-effect {
+      font-family: "Rubik Doodle Shadow";
+      color: rgb(236, 233, 233);
+      background-color: rgba(245, 46, 249, 0.741);
+     border: 1px solid rgba(245, 46, 249, 0.814);
+      
+    
+    }
+    .title-effect-2 {
+      font-family: "Rubik Doodle Shadow";
+      color: rgba(245, 46, 249, 0.956);
+      background-color: rgba(245, 245, 245, 0.896);
+      padding: 0.2rem;
+    }
+  
+  
+  
+  
+    .card-text {
+      font-size: 1.3rem;
+      background-color: rgba(234, 228, 235, 0.508);
+      color: rgb(13, 13, 13);
+      font-family: "Roboto";
+      font-weight: 900;
+      
+      margin-top: 7rem;
+      padding-left: 7px;
+      padding-bottom: 8px;
+      padding-top: 5px;
+      text-align: left;
+      display: inline;
+      border-top: 10px solid rgba(43, 2, 22, 0.786);
+      line-height: 15px;
+  }
+
+  }
+
+  @media only screen and (max-width: 840px) {
+  
+    .card-img-overlay {
+      font-family: "Rubik Doodle Shadow";
+      color: rgb(54, 54, 54);
+      
+    }
+    .card-img-overlay .card-title {
+      font-size: 1.5rem;
+  margin-bottom: 5px;
+  margin-left: 15px;
+  margin-top: 10px;
+  padding: 10px;
+  line-height: 123%;
+  color: rgb(23, 23, 23);
+      
+    }
+    .title-effect {
+      font-family: "Rubik Doodle Shadow";
+      color: rgb(236, 233, 233);
+      background-color: rgba(245, 46, 249, 0.741);
+     border: 1px solid rgba(245, 46, 249, 0.814);
+      
+    
+    }
+    .title-effect-2 {
+      font-family: "Rubik Doodle Shadow";
+      color: rgba(245, 46, 249, 0.956);
+      background-color: rgba(245, 245, 245, 0.896);
+      padding: 0.2rem;
+    }
+  
+  
+  
+  
+    .card-text {
+      font-size: 0.9rem;
+      background-color: rgba(234, 228, 235, 0.508);
+      color: rgb(13, 13, 13);
+      font-family: "Roboto";
+      font-weight: 900;
+      
+      margin-top: 5rem;
+      padding-left: 7px;
+      padding-bottom: 8px;
+      padding-top: 5px;
+      text-align: left;
+      display: inline;
+      border-top: 10px solid rgba(43, 2, 22, 0.786);
+      line-height: 10px;
+  }
+
+  }
+
+
+.card-text-effect {
+  background-color: rgba(16, 4, 16, 0.66);
+  color: whitesmoke;
+  
+}
+.card-text-effect-2 {
+  background-color: whitesmoke;
+  color: rgba(16, 4, 16, 0.66);
+}
