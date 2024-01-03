@@ -137,7 +137,7 @@
 }
 .card-img {
   width: 100%;
-  height: max-content;
+  height: 600px;
 }
 
 .card-img-overlay .card-title {
@@ -193,7 +193,7 @@
   margin-bottom: 5px;
   margin-left: 25px;
   margin-top: 20px;
-  padding: 15px;
+  padding: 10px;
   line-height: 123%;
   color: rgb(23, 23, 23);
       
@@ -249,7 +249,7 @@
   margin-bottom: 5px;
   margin-left: 25px;
   margin-top: 20px;
-  padding: 15px;
+  padding: 10px;
   line-height: 123%;
   color: rgb(23, 23, 23);
       
@@ -303,7 +303,7 @@
   margin-bottom: 5px;
   margin-left: 15px;
   margin-top: 10px;
-  padding: 10px;
+  padding: 1px;
   line-height: 123%;
   color: rgb(23, 23, 23);
       
