@@ -292,6 +292,10 @@
   }
 
   @media only screen and (max-width: 840px) {
+
+    .body {
+      padding: 0px;
+    }
   
     .card-img-overlay {
       font-family: "Rubik Doodle Shadow";
@@ -300,14 +304,15 @@
     }
     .card-img {
       height: 370px;
+      width: auto;
     }
     .card-img-overlay .card-title {
       font-size: 1.5rem;
   margin-bottom: 5px;
   margin-left: 15px;
   margin-top: 10px;
-  padding: 1px;
-  line-height: 123%;
+  padding: 3px;
+  line-height: 137%;
   color: rgb(23, 23, 23);
       
     }
