@@ -476,52 +476,82 @@
 {   
     
     "unternehmen": {"land": "USA",
-                    "name": "Poste Italiane",
-                    "co2_in_tonnen": 442088
+                    "name": "UnitedHealth Group",
+                    "co2_in_tonnen": 324172
                     }  
 },
 
 {   
     
     "unternehmen": {"land": "USA",
-                    "name": "Intesa Sanpaolo",
-                    "co2_in_tonnen": 634040
+                    "name": "CVS Health",
+                    "co2_in_tonnen": 3222340
                     }  
 },
 
 {   
     
     "unternehmen": {"land": "USA",
-                    "name": "Eni",
-                    "co2_in_tonnen": 891202
+                    "name": "Berkshire Hathaway",
+                    "co2_in_tonnen": 302089
                     }  
 },
 
 {   
     
     "unternehmen": {"land": "USA",
-                    "name": "Enel",
-                    "co2_in_tonnen": 176300
+                    "name": "Alphabet",
+                    "co2_in_tonnen": 282167
                     }  
 },
 
 {   
     
     "unternehmen": {"land": "USA",
-                    "name": "Generali Group",
-                    "co2_in_tonnen": 94600
+                    "name": "McKesson Corporation",
+                    "co2_in_tonnen": 276711
                     }  
 },
 
 {   
     
     "unternehmen": {"land": "USA",
-                    "name": "Exor",
-                    "co2_in_tonnen": 334110
+                    "name": "Chevron Corporation",
+                    "co2_in_tonnen": 246252
+                    }  
+},
+
+{   
+    
+    "unternehmen": {"land": "China",
+                    "name": "Tencent",
+                    "co2_in_tonnen": 30212089
+                    }  
+},
+
+{   
+    
+    "unternehmen": {"land": "China",
+                    "name": "Kweichov Moutai",
+                    "co2_in_tonnen": 2979623
+                    }  
+},
+
+{   
+    
+    "unternehmen": {"land": "China",
+                    "name": "ICBC",
+                    "co2_in_tonnen": 2387712
+                    }  
+},
+
+{   
+    
+    "unternehmen": {"land": "China",
+                    "name": "PetroChina",
+                    "co2_in_tonnen": 71046252
                     }  
 }
-
-
 
 
 
