@@ -1,0 +1,533 @@
+[
+
+{   
+    "unternehmen": {"land": "Deutschland",
+                    "name": "Deutsche Post",
+                    "co2_in_tonnen": 1800000
+                    }  
+},
+
+{   
+   
+    "unternehmen": {"land": "Deutschland",
+                    "name": "Munich Re",
+                    "co2_in_tonnen": 413890
+                    }  
+},
+
+{   
+    
+    "unternehmen": {"land": "Deutschland",
+                    "name": "Siemens Healthineers",
+                    "co2_in_tonnen": 695000
+                    }  
+},
+
+{   
+    
+    "unternehmen": { "land": "Deutschland",
+                    "name": "Volkswagen",
+                    "co2_in_tonnen": 1200000
+                    }  
+},
+
+{   
+    
+    "unternehmen": {"land": "Deutschland",
+                    "name": "BMW",
+                    "co2_in_tonnen": 65000
+                    }  
+},
+
+{   
+    
+    "unternehmen": {"land": "Deutschland",
+                    "name": "Mercedes-Benz",
+                    "co2_in_tonnen": 185000
+                    }  
+},
+
+{   
+    
+    "unternehmen": {"land": "Deutschland",
+                    "name": "Allianz",
+                    "co2_in_tonnen": 24420
+                    }  
+},
+
+{   
+    
+    "unternehmen": {"land": "Deutschland",
+                    "name": "Siemens",
+                    "co2_in_tonnen": 860000
+                    }  
+},
+
+{   
+    
+    "unternehmen": {"land": "Deutschland",
+                    "name": "Telekom DE",
+                    "co2_in_tonnen": 851600
+                    }  
+},
+
+{   
+    
+    "unternehmen": {"land": "Deutschland",
+                    "name": "SAP",
+                    "co2_in_tonnen": 250300
+                    }  
+},
+
+
+
+
+
+
+
+
+
+
+
+{   
+    
+    "unternehmen": {"land": "Spanien",
+                    "name": "Iberdrola",
+                    "co2_in_tonnen": 406020
+                    }  
+},
+
+{   
+    
+    "unternehmen": {"land": "Spanien",
+                    "name": "BBVA-Banco Bilbao Vizcaya",
+                    "co2_in_tonnen": 39921
+                    }  
+},
+
+{   
+    
+    "unternehmen": {"land": "Spanien",
+                    "name": "Telefonica",
+                    "co2_in_tonnen": 69761
+                    }  
+},
+
+{   
+    
+    "unternehmen": {"land": "Spanien",
+                    "name": "Bankia",
+                    "co2_in_tonnen": 172000
+                    }  
+},
+
+{   
+    
+    "unternehmen": {"land": "Spanien",
+                    "name": "Inditex",
+                    "co2_in_tonnen": 55030
+                    }  
+},
+
+{   
+    
+    "unternehmen": {"land": "Portugal",
+                    "name": "Jeronimo Martins",
+                    "co2_in_tonnen": 1750239
+                    }  
+},
+
+{   
+    
+    "unternehmen": {"land": "Portugal",
+                    "name": "Galp Energia",
+                    "co2_in_tonnen": 2042044
+                    }  
+},
+
+{   
+    
+    "unternehmen": {"land": "Portugal",
+                    "name": "Energias de Portugal",
+                    "co2_in_tonnen": 8617780
+                    }  
+},
+
+{   
+    
+    "unternehmen": {"land": "Portugal",
+                    "name": "Sonae",
+                    "co2_in_tonnen": 645100
+                    }  
+},
+
+{   
+    
+    "unternehmen": {"land": "Portugal",
+                    "name": "Banco Comercial Português",
+                    "co2_in_tonnen": 24832
+                    }  
+},
+
+
+
+
+
+
+
+
+
+{   
+    
+    "unternehmen": {"land": "Frankreich",
+                    "name": "Orange",
+                    "co2_in_tonnen": 182340
+                    }  
+},
+
+{   
+    
+    "unternehmen": {"land": "Frankreich",
+                    "name": "Renault",
+                    "co2_in_tonnen": 313440
+                    }  
+},
+
+{   
+    
+    "unternehmen": {"land": "Frankreich",
+                    "name": "Vinci",
+                    "co2_in_tonnen": 995010
+                    }  
+},
+
+{   
+    
+    "unternehmen": {"land": "Frankreich",
+                    "name": "LVMH",
+                    "co2_in_tonnen": 509010
+                    }  
+},
+
+{   
+    
+    "unternehmen": {"land": "Frankreich",
+                    "name": "Engie",
+                    "co2_in_tonnen": 75088
+                    }  
+},
+
+{   
+    
+    "unternehmen": {"land": "Frankreich",
+                    "name": "EDF",
+                    "co2_in_tonnen": 123040
+                    }  
+},
+
+{   
+    
+    "unternehmen": {"land": "Frankreich",
+                    "name": "Carrefour",
+                    "co2_in_tonnen": 44202
+                    }  
+},
+
+{   
+    
+    "unternehmen": {"land": "Frankreich",
+                    "name": "PNB Paribas",
+                    "co2_in_tonnen": 869300
+                    }  
+},
+
+{   
+    
+    "unternehmen": {"land": "Frankreich",
+                    "name": "Total",
+                    "co2_in_tonnen": 9701600
+                    }  
+},
+
+{   
+    
+    "unternehmen": {"land": "Frankreich",
+                    "name": "Axa Group",
+                    "co2_in_tonnen": 340300
+                    }  
+},
+
+
+
+
+
+
+
+
+
+{   
+    
+    "unternehmen": {"land": "Brasilien",
+                    "name": "Petrobas",
+                    "co2_in_tonnen": 1823403
+                    }  
+},
+
+{   
+    
+    "unternehmen": {"land": "Brasilien",
+                    "name": "Vale do Rio",
+                    "co2_in_tonnen": 3134677
+                    }  
+},
+
+{   
+    
+    "unternehmen": {"land": "Brasilien",
+                    "name": "Petrobras Distribuidora",
+                    "co2_in_tonnen": 9950105
+                    }  
+},
+
+{   
+    
+    "unternehmen": {"land": "Argentinien",
+                    "name": "Techint",
+                    "co2_in_tonnen": 509010
+                    }  
+},
+
+{   
+    
+    "unternehmen": {"land": "Argentinien",
+                    "name": "YPF",
+                    "co2_in_tonnen": 75088
+                    }  
+},
+
+{   
+    
+    "unternehmen": {"land": "Argentinien",
+                    "name": "Tenaris S.A.",
+                    "co2_in_tonnen": 123040
+                    }  
+},
+
+{   
+    
+    "unternehmen": {"land": "Chile",
+                    "name": "Codelco",
+                    "co2_in_tonnen": 4420232
+                    }  
+},
+
+{   
+    
+    "unternehmen": {"land": "Chile",
+                    "name": "Minera Escondida",
+                    "co2_in_tonnen": 869300
+                    }  
+},
+
+{   
+    
+    "unternehmen": {"land": "Chile",
+                    "name": "Enel Chile",
+                    "co2_in_tonnen": 9701600
+                    }  
+},
+
+{   
+    
+    "unternehmen": {"land": "Chile",
+                    "name": "Latam Airlines",
+                    "co2_in_tonnen": 340300
+                    }  
+},
+ 
+
+
+
+
+
+
+
+
+{   
+    
+    "unternehmen": {"land": "Italien",
+                    "name": "Unipol Gruppo",
+                    "co2_in_tonnen": 88252
+                    }  
+},
+
+{   
+    
+    "unternehmen": {"land": "Italien",
+                    "name": "Leonardo",
+                    "co2_in_tonnen": 232440
+                    }  
+},
+
+{   
+    
+    "unternehmen": {"land": "Italien",
+                    "name": "Telecom Italia",
+                    "co2_in_tonnen": 95810
+                    }  
+},
+
+{   
+    
+    "unternehmen": {"land": "Italien",
+                    "name": "UniCredit",
+                    "co2_in_tonnen": 212080
+                    }  
+},
+
+{   
+    
+    "unternehmen": {"land": "Italien",
+                    "name": "Poste Italiane",
+                    "co2_in_tonnen": 442088
+                    }  
+},
+
+{   
+    
+    "unternehmen": {"land": "Italien",
+                    "name": "Intesa Sanpaolo",
+                    "co2_in_tonnen": 634040
+                    }  
+},
+
+{   
+    
+    "unternehmen": {"land": "Italien",
+                    "name": "Eni",
+                    "co2_in_tonnen": 891202
+                    }  
+},
+
+{   
+    
+    "unternehmen": {"land": "Italien",
+                    "name": "Enel",
+                    "co2_in_tonnen": 176300
+                    }  
+},
+
+{   
+    
+    "unternehmen": {"land": "Italien",
+                    "name": "Generali Group",
+                    "co2_in_tonnen": 94600
+                    }  
+},
+
+{   
+    
+    "unternehmen": {"land": "Italien",
+                    "name": "Exor",
+                    "co2_in_tonnen": 334110
+                    }  
+},
+
+
+
+
+
+
+
+
+
+{   
+    
+    "unternehmen": {"land": "USA",
+                    "name": "Walmart",
+                    "co2_in_tonnen": 20188252
+}  
+},
+
+{   
+    
+    "unternehmen": {"land": "USA",
+                    "name": "Amazon",
+                    "co2_in_tonnen": 23220440
+}  
+},
+
+{   
+    
+    "unternehmen": {"land": "USA",
+                    "name": "ExxonMobil",
+                    "co2_in_tonnen": 95810144
+}  
+},
+
+{   
+    
+    "unternehmen": {"land": "USA",
+                    "name": "Apple",
+                    "co2_in_tonnen": 2182080
+}  
+},
+
+{   
+    
+    "unternehmen": {"land": "USA",
+                    "name": "Poste Italiane",
+                    "co2_in_tonnen": 442088
+                    }  
+},
+
+{   
+    
+    "unternehmen": {"land": "USA",
+                    "name": "Intesa Sanpaolo",
+                    "co2_in_tonnen": 634040
+                    }  
+},
+
+{   
+    
+    "unternehmen": {"land": "USA",
+                    "name": "Eni",
+                    "co2_in_tonnen": 891202
+                    }  
+},
+
+{   
+    
+    "unternehmen": {"land": "USA",
+                    "name": "Enel",
+                    "co2_in_tonnen": 176300
+                    }  
+},
+
+{   
+    
+    "unternehmen": {"land": "USA",
+                    "name": "Generali Group",
+                    "co2_in_tonnen": 94600
+                    }  
+},
+
+{   
+    
+    "unternehmen": {"land": "USA",
+                    "name": "Exor",
+                    "co2_in_tonnen": 334110
+                    }  
+}
+
+
+
+
+
+
+
+
+
+
+]   
