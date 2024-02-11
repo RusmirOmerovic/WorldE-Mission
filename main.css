@@ -125,9 +125,9 @@
 
     /* Grundeinstellungen Body */
     body {
-      margin-top: 30px;
+      
   background-color: rgb(222, 221, 221);
-  padding: 20px;
+  
   
 }
 
@@ -295,7 +295,8 @@
   @media only screen and (max-width: 840px) {
 
     .body {
-      padding: 0px;
+      padding: none;
+      margin: none;
     }
   
     .card-img-overlay {

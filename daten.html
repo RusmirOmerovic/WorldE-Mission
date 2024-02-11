@@ -10,8 +10,7 @@
    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Audiowide|Roboto+Condensed">
    <link rel="stylesheet" href="main.css"> 
-   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.3.0/css/bootstrap.min.css">
-   <link rel="stylesheet" href="https://cdn.datatables.net/1.13.7/css/dataTables.bootstrap5.min.css">
+   
 
    
 </head>
@@ -94,15 +93,16 @@
             </div>
           </nav>
         </header>
-        <div class="container mt-5 mb-5">
+        <div class="container mt-5 mb-5"><br>
           <h2>Emissionsdaten nach Ländern und Unternehmen durchsuchen:</h2><br><br>
+          <input type="text">
         <table class="table table-striped" id="tblData">
           <thead class="table-dark" style="cursor: pointer;">
             <tr>
               
-              <th onclick="sortTable(0)">Land</th>
-              <th onclick="sortTable(1)">Unternehmen</th>
-              <th onclick="sortTable(2)">Co2 in Tonnen</th>
+              <th onclick="sortTable(0)" class="col">Land</th>
+              <th onclick="sortTable(1)" class="col">Unternehmen</th>
+              <th onclick="sortTable(2)" class="col">Co2 in Tonnen</th>
             </tr>
           </thead>
           <tbody id="data-output">
@@ -167,8 +167,6 @@
           <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
           <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js" integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+" crossorigin="anonymous"></script>
           <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
-          <script src="https://code.jquery.com/jquery-3.7.0.js"></script>
-          <script src="https://cdn.datatables.net/1.13.7/js/jquery.dataTables.min.js"></script>
-          <script src="https://cdn.datatables.net/1.13.7/js/dataTables.bootstrap5.min.js"></script>
+          
 </body>
 </html>
