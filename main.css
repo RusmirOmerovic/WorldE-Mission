@@ -39,6 +39,7 @@
     /* Navbar + Menü anpassen */
     .navbar-dark {
         background-color: rgb(30, 1, 30);
+       
     }
     .navbar-dark .navbar-brand {
         font-family: "Audiowide";
@@ -135,18 +136,21 @@
 .card-img-overlay {
   font-family: "Rubik Doodle Shadow";
   
+  
 }
 .card-img {
   width: 100%;
   height: auto;
+  margin-top: 25px !important;
+  
 }
 
 .card-img-overlay .card-title {
   font-size: 5.3rem;
   margin-bottom: 5px;
   margin-left: 15px;
-  margin-top: 20px;
-  padding: 15px;
+  margin-top: 40px !important;
+  padding: 20px;
   line-height: 123%;
   color: rgb(23, 23, 23);
   
