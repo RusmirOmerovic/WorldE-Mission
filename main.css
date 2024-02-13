@@ -298,10 +298,7 @@
 
   @media only screen and (max-width: 840px) {
 
-    .body {
-      padding: none;
-      margin: none;
-    }
+    
   
     .card-img-overlay {
       font-family: "Rubik Doodle Shadow";
@@ -751,10 +748,11 @@ footer {
   
   position: absolute;
   width: 100%;
-  
+  margin: 0px 0px 0px 0px; 
+  padding: 20px 60px 20px 60px;
 
-  margin: 25px 10px 10px -20px;
-  padding: 50px;
+  
+  
   
   color: whitesmoke;
   background: linear-gradient(0deg, #b2b0b0, #242323);
@@ -808,7 +806,7 @@ footer:after {
   
 footer h3 {
   width: fit-content;
-  margin-bottom: 40px;
+  
   position: relative;
   margin-bottom: 20px;
   margin-top: 30px;

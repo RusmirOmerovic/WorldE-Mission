@@ -13,7 +13,7 @@ fetch ("emissions.json")
     <tr>
     <td>${data.unternehmen.land}</td>
     <td>${data.unternehmen.name}</td>
-    <td>${data.unternehmen.co2_in_tonnen.toLocaleString()} t </td>
+    <td>${data.unternehmen.co2_in_tonnen.toLocaleString()} t</td>
     </tr>
     `; 
 
@@ -48,10 +48,10 @@ function sortTable(n) {
       y = rows[i + 1].getElementsByTagName("TD")[n];
       /* Check if the two rows should switch place,
       based on the direction, asc or desc: */
-      if (Number(x.innerHTML) > Number(y.innerHTML)) {
-        shouldSwitch = true;
-        break;
-      }
+      // if (Number(x.innerHTML) > Number(y.innerHTML)) {
+      //   shouldSwitch = true;
+      //   break;
+      // }
       if (dir == "asc") {
         if (x.innerHTML.toLowerCase() > y.innerHTML.toLowerCase()) {
           // If so, mark as a switch and break the loop:
