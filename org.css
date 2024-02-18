@@ -1,0 +1,16 @@
+h1 {
+    font-family: "Protest Strike";
+    color: whitesmoke;
+    font-size: 4rem;
+    margin-top: 40px;
+    margin-left:-30px;
+    padding: 10px;
+    background-color: rgb(12, 119, 122);
+    border-radius: 30%;
+    
+}
+
+#img-1 {
+    border-radius: 20%;
+    padding: 50px;
+}

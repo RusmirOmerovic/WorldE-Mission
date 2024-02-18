@@ -13,7 +13,7 @@ fetch ("emissions.json")
     <tr>
     <td>${data.unternehmen.land}</td>
     <td>${data.unternehmen.name}</td>
-    <td>${data.unternehmen.co2_in_tonnen.toLocaleString()} t</td>
+    <td>${data.unternehmen.co2_in_tonnen.toLocaleString('en-US', {notation: 'compact'})}</td>
     </tr>
     `; 
 
