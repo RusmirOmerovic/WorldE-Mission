@@ -873,3 +873,11 @@ footer .copyrights {
 
 }
 
+
+
+#tblData {
+  font-size: 1.2rem !important;
+  overflow-x: auto;
+  
+}
+
