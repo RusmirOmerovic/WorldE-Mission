@@ -476,10 +476,10 @@ main {
         
         
         position: relative;
-      right: -60px;
+      right: -10px;
       bottom: -15px;
         box-shadow: 7px 3px rgb(124, 126, 125);
-        width: 300px;
+        width: auto;
        margin-right: 20px;
        height: 90%;
         
@@ -502,7 +502,7 @@ main {
         background-color: rgba(82, 101, 98, 0.067);
         margin-top: 10px;
         background-position: center;
-        
+        width: auto;
     }
     
     #first-container {
