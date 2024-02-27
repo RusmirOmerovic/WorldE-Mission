@@ -545,7 +545,7 @@ main {
         
         position: relative;
       right: -5px;
-      bottom: -5px;
+      bottom: 0px;
         box-shadow: 7px 5px rgb(124, 126, 125);
         width: auto;
        margin-right: 20px;
@@ -559,9 +559,9 @@ main {
         padding-top: 5px;
         padding-right: 1px;
         padding-bottom: 5px;
-        font-size: 0.7rem;
-        text-indent: 20px;
-        line-height: 1;
+        font-size: 0.8rem;
+        text-indent: 10px;
+        
         background-color: rgba(82, 101, 98, 0.067);
         margin-top: 10px;
         
