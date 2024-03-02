@@ -529,7 +529,7 @@ main {
     h1 {
         font-family: "Protest Strike";
         color: #f5f5f5;
-        font-size: 1.2rem;
+        font-size: 1.5rem;
         margin-top: 1px;
         margin-left:-25px;
         padding: 2px;
@@ -559,7 +559,7 @@ main {
         padding-top: 5px;
         padding-right: 1px;
         padding-bottom: 5px;
-        font-size: 0.8rem;
+        font-size: 1rem;
         text-indent: 10px;
         
         background-color: rgba(82, 101, 98, 0.067);
@@ -596,7 +596,64 @@ main {
     border: 1px solid rgb(114, 197, 178);
     margin-left: 50px;
     margin-right: 50px;
-    margin-top: 70px;
+    margin-top: 50px;
     
 
+}
+
+@media only screen and (max-width: 870px) {
+    #second-container {
+        background-color: rgb(189, 218, 211); 
+        border-radius: 30px; 
+        padding: 15px; 
+        border: 1px solid rgb(114, 197, 178);
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+}
+
+@media only screen and (max-width: 660px) {
+    #second-container {
+        background-color: rgb(189, 218, 211); 
+        border-radius: 30px; 
+        padding: 15px; 
+        border: 1px solid rgb(114, 197, 178);
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+}
+
+
+#text2 {
+    text-align: center;
+    background-color: rgb(96, 94, 94);
+    margin-right: -50px;
+    margin-left: -50px;
+    margin-top: 50px;
+    padding: 100px;
+    color: whitesmoke;
+}
+
+#cardButton1 {
+    color: black;
+    margin-top: 15px;
+    font-size: 2rem;
+    background-color: rgb(12, 12, 12);
+    border: 2px solid rgb(28, 252, 200);
+    color: rgb(28, 252, 200);
+    padding: 10px;
+}
+
+#cardButton1:hover {
+    color: black;
+    margin-top: 15px;
+    font-size: 2rem;
+    background-color: rgb(52, 50, 50);
+    border: 2px solid rgb(28, 252, 200);
+    color: rgb(28, 252, 200);
+    padding: 10px;
+}
+
+#card-text_1 {
+    font-weight: 600;
 }
