@@ -89,35 +89,54 @@
           </nav>
         </header>
           <main>
+            <div>
             <h1>Schreib uns deine Anliegen und Wünsche oder hinterlasse einfach eine Nachricht:</h1>
-            <div class="row g-3 mb-1 pb-3 ms-3">
-              <div class="col-4">
+            <div class="row g-3 mb-3">
+              <div class="d-none d-md-block col-4">
                 <input type="text" class="form-control" placeholder="Vorname">
               </div>
-              <div class="col-4">
+              <div class="d-md-none col">
+                <input type="text" class="form-control" placeholder="Vorname">
+              </div>
+              <div class="d-none d-md-block col-4">
+                <input type="text" class="form-control" placeholder="Nachname">
+              </div>
+              <div class="d-md-none col">
                 <input type="text" class="form-control" placeholder="Nachname">
               </div>
             </div>
-            <div class="row g-3 mb-1 pb-3 ms-3">
-              <div class="col-6">
-                <input type="text" class="form-control" placeholder="Str">
+            <div class="row g-3 mb-3">
+              <div class="d-none d-md-block col-6">
+                <input type="text" class="form-control" placeholder="Straße">
               </div>
-              <div class="col-2">
-                <input type="text" class="form-control" placeholder="Nr">
+              <div class="d-md-none col-9">
+                <input type="text" class="form-control" placeholder="Straße">
+              </div>
+              <div class="d-none d-md-block col-2">
+                <input type="text" class="form-control" placeholder="Nr.">
+              </div>
+              <div class="d-md-none col">
+                <input type="text" class="form-control" placeholder="Nr.">
               </div>
             </div>
-            <div class="row g-3 mb-1 pb-5 ms-3">
-              <div class="col-3">
-                <input type="text" class="form-control" placeholder="PLZ">
+            <div class="row g-3 mb-3">
+              <div class="d-none d-md-block col-3">
+                <input type="text" class="form-control" placeholder="Postleitzahl">
               </div>
-              <div class="col-5">
+              <div class="d-md-none col-4">
+                <input type="text" class="form-control" placeholder="Postleitzahl">
+              </div>
+              <div class="d-none d-md-block col-5">
+                <input type="text" class="form-control" placeholder="Stadt">
+              </div>
+              <div class="d-md-none col">
                 <input type="text" class="form-control" placeholder="Stadt">
               </div>
             </div>
-            <div class="mb-1 pb-5 ms-3 me-3">
-              <textarea class="form-control" rows="10" placeholder="Tippe hier deine Nachricht..."></textarea>
-            </div>
-<div class="d-grid col-4 mx-auto mb-1 pb-5"><button type="button" class="btn btn-warning btn-lg">Absenden</button>
+              <div><textarea class="form-control" rows="10" placeholder="Tippe hier deine Nachricht..."></textarea>
+            
+<button type="button" class="d-grid col-4 mx-auto mb-3 mt-3 btn btn-warning btn-lg">Absenden</button>
+</div>
 </div>
 </main>
             
