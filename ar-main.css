@@ -128,9 +128,10 @@
     body {
       
   background-color: rgb(222, 221, 221);
-  
-  
+
 }
+
+
 
 /* Feinabstimmung Body */
 .card-img-overlay {
@@ -375,14 +376,14 @@
   font-family: "Roboto Condensed";
   color: slategrey;
   background-color: rgba(245, 245, 245, 0.95);
-  padding: 30px;
+  padding: 10px;
 }
 .card2 .card2-header {
   color: rgba(245, 46, 249, 0.956);
   
   font-size: 3rem;
   font-weight: 600;
-  margin: 30px;
+  margin: 10px;
   
 }
 .card2 .card2-title {
@@ -398,7 +399,7 @@
   color: slategrey;
   background-color: rgba(245, 245, 245, 0.95);
   padding: 25px;
-  margin: 30px;
+  
   
   align-items: center;
   justify-content: center;
@@ -453,7 +454,7 @@
     color: slategrey;
     background-color: rgba(245, 245, 245, 0.95);
     padding: 5px;
-    margin: 10px;
+    
     
     align-items: center;
     justify-content: center;
@@ -506,8 +507,8 @@
     font-family: "Roboto Condensed";
     color: slategrey;
     background-color: rgba(245, 245, 245, 0.95);
-    padding: 5px !important;
-    margin: 5px !important;
+    
+    
     
     align-items: center;
     justify-content: center;
@@ -560,8 +561,7 @@
     font-family: "Roboto Condensed";
     color: slategrey;
     background-color: rgba(245, 245, 245, 0.95);
-    padding: 1px !important;
-    margin: 1px !important;
+    
     
     
     
@@ -611,8 +611,7 @@
     font-family: "Roboto Condensed";
     color: slategrey;
     background-color: rgba(245, 245, 245, 0.95);
-    padding: 20px !important;
-    margin: 20px !important;
+    
     
     
     
@@ -662,8 +661,7 @@
     font-family: "Roboto Condensed";
     color: slategrey;
     background-color: rgba(245, 245, 245, 0.95);
-    padding: 1px;
-    margin: 1px;
+    
     
     
     
