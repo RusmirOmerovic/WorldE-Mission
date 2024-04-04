@@ -114,13 +114,13 @@ function sortTableNum(n) {
       //   break;
       // }
       if (dir == "asc") {
-        if (x.dataset.value > y.dataset.value) {
+        if (Number(x.dataset.value) > Number(y.dataset.value)) {
           // If so, mark as a switch and break the loop:
           shouldSwitch = true;
           break;
         }
       } else if (dir == "desc") {
-        if (x.dataset.value < y.dataset.value) {
+        if (Number(x.dataset.value) < Number(y.dataset.value)) {
           // If so, mark as a switch and break the loop:
           shouldSwitch = true;
           break;
